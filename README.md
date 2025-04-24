@@ -7,9 +7,10 @@ This project was created to provide an extra income to the company by allowing t
 
 **Key Features:**
 
-* Keeps a running clock
-* When the specified rental period is up it doesnt allow for the program that operates the printer run.
+* Keeps track of the rental period specified.
+* Blocks access after agreed rental period
 * runs in the background
+* Time can be extended easily by admin
   
 ## Technologies Used
 * **Frontend:** C#
